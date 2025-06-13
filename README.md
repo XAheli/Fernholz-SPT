@@ -524,8 +524,8 @@ If you use this library in your research, please cite it. As the library evolves
   author = {Aheli Poddar and Shuvam Banerji Seal},
   title = {{Fernholz SPT: A Python Implementation of Stochastic Portfolio Theory}},
   url = {https://github.com/xaheli/fernholz-spt},
-  version = {0.1.1}, # Adjust version as appropriate
-  year = {2024} # Adjust year of first use or current version
+  version = {0.1.1}, 
+  year = {2025} 
 }
 ```
 And please cite the foundational works of Fernholz:
@@ -567,4 +567,3 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 ## Acknowledgements
 
 This implementation draws inspiration from the original theoretical work of E. Robert Fernholz and subsequent contributions by him and his collaborators (notably Ioannis Karatzas, Adrian Banner, Constantinos Kardaras, and Tom Cover on related topics like universal portfolios).
-```
